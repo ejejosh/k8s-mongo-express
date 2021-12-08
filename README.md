@@ -1,2 +1,2 @@
 # Simply Mongo Express deployment
-## This deplyment uses Mongo-Express frontend and mongoDB for database
+## This deploys official Mongo-Express and mongoDB images in kubernetes cluster.
